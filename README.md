@@ -32,6 +32,6 @@ finished log reg, but because the dataset is really imbalanced, i had to learn h
 - [ ] decision trees and that whole mess
 - [ ] SVM (need to reseawrch mroe)
 - [ ] k means clustering
-- [ ] NEURAL NETWORKS! (more research needed for this)
+- [ ] NEURAL NETWORKS! (more research needed for this)<br/>
 linear reg is currenr leader! <br/>
 the future decisions for which model to pursue will be in like a deicision tree format, with the hghest base accuracy being the one i pursue.
