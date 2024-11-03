@@ -22,12 +22,12 @@ note: research paper should be at least avaliable before the end of next year! (
 
 ## 11/2/2024:<br/> 
 **LOG**<br/> 
-finished log reg, but because the dataset is really imbalanced, i had to learn how to balance it out. from now on the accuracy will be measured thru f1 score, because that is the most accurate and industry standard
+finished log reg and knn, but because the dataset is really imbalanced, i had to learn how to balance it out(using smote). from now on the accuracy will be measured thru f1 score, because that is the most accurate and industry standard
 
 
 - [x] try linear reg - 0.9411764705882353
 - [x] try log reg - 0.9230769230769231
-- [ ] try knn
+- [x] try knn - 0.9180327868852459
 - [ ] naive bayes (promising because of heatmap)
 - [ ] decision trees and that whole mess
 - [ ] SVM (need to reseawrch mroe)
@@ -36,3 +36,5 @@ finished log reg, but because the dataset is really imbalanced, i had to learn h
 
 linear reg is currenr leader! <br/>
 the future decisions for which model to pursue will be in like a deicision tree format, with the hghest base accuracy being the one i pursue.
+<br/>
+biggest issue is to make sure the models aren't overfitting, which I still need to make sure I do.
