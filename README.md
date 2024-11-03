@@ -22,19 +22,19 @@ note: research paper should be at least avaliable before the end of next year! (
 
 ## 11/2/2024:<br/> 
 **LOG**<br/> 
-finished log reg and knn, but because the dataset is really imbalanced, i had to learn how to balance it out(using smote). from now on the accuracy will be measured thru f1 score, because that is the most accurate and industry standard
-
+finished a lot today, but because the dataset is really imbalanced, i had to learn how to balance it out(using smote). from now on the accuracy will be measured thru f1 score, because that is the most accurate and industry standard
+i do feel like i cut a few corners, so there is a lto i can look at.
 
 - [x] try linear reg - 0.9411764705882353
 - [x] try log reg - 0.9230769230769231
 - [x] try knn - 0.9180327868852459
-- [ ] naive bayes (promising because of heatmap)
-- [ ] decision trees and that whole mess
-- [ ] SVM (need to reseawrch mroe)
-- [ ] k means clustering
+- [x] naive bayes (promising because of heatmap) - 0.7931034482758621
+- [x] decision trees and that whole mess - 0.9696969696969697
+- [x] SVM (need to reseawrch mroe) - 0.9538461538461539
+- [x] k means clustering (didn't even go thru with it, too weird)
 - [ ] NEURAL NETWORKS! (more research needed for this)<br/>
 
-linear reg is currenr leader! <br/>
+decison trees  (random forest ensemble) is our current leader! <br/>
 the future decisions for which model to pursue will be in like a deicision tree format, with the hghest base accuracy being the one i pursue.
 <br/>
 biggest issue is to make sure the models aren't overfitting, which I still need to make sure I do.
