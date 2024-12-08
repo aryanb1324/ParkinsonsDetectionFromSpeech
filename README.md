@@ -38,3 +38,14 @@ decison trees  (random forest ensemble) is our current leader! <br/>
 the future decisions for which model to pursue will be in like a deicision tree format, with the hghest base accuracy being the one i pursue.
 <br/>
 biggest issue is to make sure the models aren't overfitting, which I still need to make sure I do.
+
+## 12/8/2024:<br/> 
+**LOG**<br/> 
+It has been a while since I came back to this project but there are a few issues that will require me to technically restart. The biggest issue is the fact that I need to make sure that everything follows a proper research methodology **and** I need to address issues regarding dataset sizes. From now on, I have a plan of what to focus on and go step by step.
+
+- [ ] Exploratory Data Analysis
+- [ ] Data Preprocessing
+- [ ] Baseline models (Lin and log reg)
+- [ ] Intermediate models (KNN, Naive Bayes, Decision Trees)
+- [ ] Advanced models (SVM NN)
+- [ ] Evaluation and Reporting <br/>
